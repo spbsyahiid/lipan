@@ -11,7 +11,6 @@ This repo documents the complete setup of a simulated ROS 2 robot using ROS 2 Ja
   - `xacro`, `ros_gz` packages
 - Git and VSCode (optional but recommended)
 - Your graphics must support `gz sim` through WSL or native Linux.
-
 ---
 
 ## 🧰 Setup Steps
