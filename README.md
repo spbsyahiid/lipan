@@ -1,4 +1,4 @@
-# Lipan 2.0: ROS 2 Simulation + Real-World Integration (ROS 2 Jazzy + Gazebo Harmonic)
+# Lipan 2.0
 
 This repo documents the complete setup of the **Lipan 2.0** robot platform, developed and tested using ROS 2 Jazzy, Gazebo Harmonic (`gz sim`), and RViz2 on a **clean install of Ubuntu 24.04 (WSL2)**.
 
