@@ -270,11 +270,6 @@
       <static>false</static>
       <self_collide>false</self_collide>
     </model>
-    <include>
-      <uri>file://<urdf-string></uri>
-      <name>my_bot</name>
-      <pose>-1.701080301431586e-09 -3.3529196068766641e-19 0.032999602986972 1.6925145192508954e-18 2.0776113602047328e-08 -6.8264008716335142e-19</pose>
-    </include>
     <model name='capsule'>
       <pose>1.4889629567022631 -0.016260769378073903 0.499999999902001 0 0 0</pose>
       <link name='capsule_link'>
